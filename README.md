@@ -51,5 +51,3 @@ java -cp ".;mysql-connector-j-26.7.0.jar" FurniFind
 ## Project Type
 Academic Mini Project
 
-## Developer
-Mantasha Taibani
